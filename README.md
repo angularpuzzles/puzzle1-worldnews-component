@@ -25,14 +25,15 @@ app/components/newspaper
 
 <br />
 
-![Newspaper Component Design](https://github.com/scottishsmile/Angular-puzzle-1/blob/main/src/assets/images/WebpageDesignSmall.png?raw=true "Design")
+![Newspaper Component Design](https://github.com/angularpuzzles/puzzle1-worldnews-component/blob/main/src/assets/images/WebpageDesignSmall.png?raw=true "Design")
+
 
 <br />
 
 This Figma design file contains the CSS code info.
 You will have to create a free account to view it. Figma is a very popular design file tool, it's good to know it!
 
-https://www.figma.com/file/hPsIpFcevQm7f0aix7DQ2R/Puzzle1-World-News-Component?type=design&mode=design&t=6gv1xQpvEBe0A5hA-1
+[Figma Design File](https://www.figma.com/file/hPsIpFcevQm7f0aix7DQ2R/Puzzle1-World-News-Component?type=design&mode=design&t=6gv1xQpvEBe0A5hA-1 "Figma File")
 
 
 <b>It does not have to be perfect, but it does have to look something like that design!</b>
